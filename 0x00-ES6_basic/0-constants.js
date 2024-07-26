@@ -3,7 +3,7 @@ export function taskFirst() {
   return task;
 }
 
-function getLast() {
+export function getLast() {
   return ' is okay';
 }
 
