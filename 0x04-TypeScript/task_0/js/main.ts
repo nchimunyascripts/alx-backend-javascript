@@ -8,7 +8,7 @@ interface Student {
 const [student1, student2] = [
   {
     firstName: "Mark",
-    lastName,: "Oshorenoya"
+    lastName: "Oshorenoya",
     age: 25,
     location: "Lagos State"
   },
